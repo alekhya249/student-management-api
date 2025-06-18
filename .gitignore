@@ -16,6 +16,7 @@ dependency-reduced-pom.xml
 .classpath
 .settings/
 .metadata/
+.factorypath
 
 # OS-specific
 .DS_Store
